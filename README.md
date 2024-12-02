@@ -1,2 +1,2 @@
 # COLORIA
-COLORIA
+Colorisation d'images par IA en ligne
